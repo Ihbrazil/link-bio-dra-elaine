@@ -146,7 +146,11 @@
   .secao-banner video {
     width: 100vw;
     height: 100vh;
-    object-fit: contain;
+    object-fit: fill;
+  }
+
+  .imgPerfil-titulo {
+    gap: 200px;
   }
 
  /* Estilo da imagem de perfil e do titulo */
