@@ -146,6 +146,7 @@
   .secao-banner video {
     width: 100vw;
     height: 100vh;
+    object-fit: contain;
   }
 
  /* Estilo da imagem de perfil e do titulo */
