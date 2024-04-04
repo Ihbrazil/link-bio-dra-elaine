@@ -20,7 +20,7 @@
     z-index: -1;
     width: 100%;
     height: 100%;
-    object-fit: fill;
+    object-fit: none;
   }
   
   .container-info {
@@ -146,11 +146,11 @@
   .secao-banner video {
     width: 100vw;
     height: 100vh;
-    object-fit: fill;
+    object-fit: scale-down;
   }
 
   .imgPerfil-titulo {
-    gap: 200px;
+    gap: 400px;
   }
 
  /* Estilo da imagem de perfil e do titulo */
